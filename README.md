@@ -20,3 +20,5 @@ The model was saved after training was completed. I implemented functions for in
 #### Testing accuracy: **99%**
 
 #### Training accuracy: **100%**
+
+![Rhydon?](Data/UE4/Color/Rhydon_Pose5_2_128.png)
