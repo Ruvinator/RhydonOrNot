@@ -1,0 +1,3472 @@
+{
+  "pokemonDataSet": {
+    "Rhydon_Pose5_2_91_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 91
+    },
+    "Rhydon_Pose5_1_139_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 139
+    },
+    "Rhydon_Pose5_0_110_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 0,
+      "angle": 110
+    },
+    "Rhydon_Pose5_0_47_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 0,
+      "angle": 47
+    },
+    "Rhydon_Pose5_0_107_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 0,
+      "angle": 107
+    },
+    "Rhydon_Pose5_0_340_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 0,
+      "angle": 340
+    },
+    "Rhydon_Pose5_2_252_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 252
+    },
+    "Rhydon_Pose5_0_280_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 0,
+      "angle": 280
+    },
+    "Rhydon_Pose5_2_319_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 319
+    },
+    "Rhydon_Pose5_3_310_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 3,
+      "angle": 310
+    },
+    "Rhydon_Pose5_1_63_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 63
+    },
+    "Rhydon_Pose5_2_121_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 121
+    },
+    "Rhydon_Pose5_2_89_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 89
+    },
+    "Rhydon_Pose5_2_189_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 189
+    },
+    "Rhydon_Pose5_2_256_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 256
+    },
+    "Rhydon_Pose5_1_283_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 283
+    },
+    "Rhydon_Pose5_0_42_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 0,
+      "angle": 42
+    },
+    "Rhydon_Pose5_1_346_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 346
+    },
+    "Rhydon_Pose5_1_246_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 246
+    },
+    "Rhydon_Pose5_2_158_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 158
+    },
+    "Rhydon_Pose5_0_344_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 0,
+      "angle": 344
+    },
+    "Rhydon_Pose5_1_349_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 349
+    },
+    "Rhydon_Pose5_0_277_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 0,
+      "angle": 277
+    },
+    "Rhydon_Pose5_3_62_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 3,
+      "angle": 62
+    },
+    "Rhydon_Pose5_2_316_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 316
+    },
+    "Rhydon_Pose5_3_125_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 3,
+      "angle": 125
+    },
+    "Rhydon_Pose5_1_281_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 281
+    },
+    "Rhydon_Pose5_0_170_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 0,
+      "angle": 170
+    },
+    "Rhydon_Pose5_3_248_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 3,
+      "angle": 248
+    },
+    "Rhydon_Pose5_1_160_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 160
+    },
+    "Rhydon_Pose5_1_286_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 286
+    },
+    "Rhydon_Pose5_1_179_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 179
+    },
+    "Rhydon_Pose5_3_250_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 3,
+      "angle": 250
+    },
+    "Rhydon_Pose5_1_319_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 319
+    },
+    "Rhydon_Pose5_3_185_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 3,
+      "angle": 185
+    },
+    "Rhydon_Pose5_1_60_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 60
+    },
+    "Rhydon_Pose5_0_217_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 0,
+      "angle": 217
+    },
+    "Rhydon_Pose5_2_192_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 192
+    },
+    "Rhydon_Pose5_3_316_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 3,
+      "angle": 316
+    },
+    "Rhydon_Pose5_2_62_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 62
+    },
+    "Rhydon_Pose5_1_211_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 211
+    },
+    "Rhydon_Pose5_2_161_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 161
+    },
+    "Rhydon_Pose5_2_60_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 60
+    },
+    "Rhydon_Pose5_3_188_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 3,
+      "angle": 188
+    },
+    "Rhydon_Pose5_1_317_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 317
+    },
+    "Rhydon_Pose5_0_213_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 0,
+      "angle": 213
+    },
+    "Rhydon_Pose5_1_123_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 1,
+      "angle": 123
+    },
+    "Rhydon_Pose5_3_122_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 3,
+      "angle": 122
+    },
+    "Rhydon_Pose5_0_173_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 0,
+      "angle": 173
+    },
+    "Rhydon_Pose5_3_60_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 3,
+      "angle": 60
+    },
+    "Rhydon_Pose5_2_128_g.png": {
+      "name": "Rhydon",
+      "pose": 5,
+      "cameraPosition": 2,
+      "angle": 128
+    },
+    "Blastoise_Pose1_0_94_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 94
+    },
+    "Blastoise_Pose1_3_30_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 30
+    },
+    "Blastoise_Pose1_1_192_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 192
+    },
+    "Blastoise_Pose1_3_32_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 32
+    },
+    "Blastoise_Pose1_0_128_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 128
+    },
+    "Blastoise_Pose1_2_32_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 32
+    },
+    "Blastoise_Pose1_1_229_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 229
+    },
+    "Blastoise_Pose1_2_232_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 232
+    },
+    "Blastoise_Pose1_3_227_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 227
+    },
+    "Blastoise_Pose1_2_163_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 163
+    },
+    "Blastoise_Pose1_3_296_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 296
+    },
+    "Blastoise_Pose1_2_96_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 96
+    },
+    "Blastoise_Pose1_0_159_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 159
+    },
+    "Blastoise_Pose1_1_92_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 92
+    },
+    "Blastoise_Pose1_1_299_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 299
+    },
+    "Blastoise_Pose1_0_162_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 162
+    },
+    "Blastoise_Pose1_2_63_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 63
+    },
+    "Blastoise_Pose1_0_196_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 196
+    },
+    "Blastoise_Pose1_1_161_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 161
+    },
+    "Blastoise_Pose1_3_331_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 331
+    },
+    "Blastoise_Pose1_2_199_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 199
+    },
+    "Blastoise_Pose1_0_58_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 58
+    },
+    "Blastoise_Pose1_2_264_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 264
+    },
+    "Blastoise_Pose1_3_293_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 293
+    },
+    "Blastoise_Pose1_1_231_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 231
+    },
+    "Blastoise_Pose1_1_87_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 87
+    },
+    "Blastoise_Pose1_1_332_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 332
+    },
+    "Blastoise_Pose1_1_123_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 123
+    },
+    "Blastoise_Pose1_3_263_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 263
+    },
+    "Blastoise_Pose1_0_292_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 292
+    },
+    "Blastoise_Pose1_1_297_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 297
+    },
+    "Blastoise_Pose1_1_198_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 198
+    },
+    "Blastoise_Pose1_0_193_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 193
+    },
+    "Blastoise_Pose1_1_157_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 157
+    },
+    "Blastoise_Pose1_1_262_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 262
+    },
+    "Blastoise_Pose1_1_28_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 28
+    },
+    "Blastoise_Pose1_0_295_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 295
+    },
+    "Blastoise_Pose1_2_331_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 331
+    },
+    "Blastoise_Pose1_0_358_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 358
+    },
+    "Blastoise_Pose1_1_26_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 26
+    },
+    "Blastoise_Pose1_0_26_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 26
+    },
+    "Blastoise_Pose1_0_260_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 260
+    },
+    "Blastoise_Pose1_0_227_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 227
+    },
+    "Blastoise_Pose1_3_97_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 97
+    },
+    "Blastoise_Pose1_2_229_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 229
+    },
+    "Blastoise_Pose1_1_56_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 56
+    },
+    "Blastoise_Pose1_3_260_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 260
+    },
+    "Blastoise_Pose1_3_129_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 129
+    },
+    "Blastoise_Pose1_2_130_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 130
+    },
+    "Blastoise_Pose1_3_196_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 196
+    },
+    "Blastoise_Pose1_2_298_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 298
+    },
+    "Blastoise_Pose1_2_196_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 196
+    },
+    "Blastoise_Pose1_1_126_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 126
+    },
+    "Blastoise_Pose1_3_327_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 327
+    },
+    "Blastoise_Pose1_0_263_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 263
+    },
+    "Blastoise_Pose1_3_66_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 66
+    },
+    "Blastoise_Pose1_3_132_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 132
+    },
+    "Blastoise_Pose1_3_161_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 161
+    },
+    "Blastoise_Pose1_3_164_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 164
+    },
+    "Blastoise_Pose1_2_334_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 334
+    },
+    "Blastoise_Pose1_2_268_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 268
+    },
+    "Blastoise_Pose1_1_265_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 265
+    },
+    "Blastoise_Pose1_0_61_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 61
+    },
+    "Blastoise_Pose1_1_329_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 329
+    },
+    "Blastoise_Pose1_0_92_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 92
+    },
+    "Blastoise_Pose1_3_194_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 194
+    },
+    "Blastoise_Pose1_3_230_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 230
+    },
+    "Blastoise_Pose1_2_99_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 99
+    },
+    "Blastoise_Pose1_2_301_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 301
+    },
+    "Blastoise_Pose1_0_325_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 325
+    },
+    "Blastoise_Pose1_2_65_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 65
+    },
+    "Blastoise_Pose1_2_30_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 30
+    },
+    "Blastoise_Pose1_2_133_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 133
+    },
+    "Blastoise_Pose1_0_230_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 230
+    },
+    "Blastoise_Pose1_0_328_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 328
+    },
+    "Blastoise_Pose1_2_165_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 165
+    },
+    "Blastoise_Pose1_3_99_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 99
+    },
+    "Blastoise_Pose1_0_125_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 125
+    },
+    "Blastoise_Pose1_3_64_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 64
+    },
+    "Blastoise_Pose1_1_59_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 59
+    },
+    "Blastoise_Pose1_0_23_g.png": {
+      "name": "Blastoise",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 23
+    },
+    "Gyarados_Pose1_1_162_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 162
+    },
+    "Gyarados_Pose1_1_54_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 54
+    },
+    "Gyarados_Pose1_3_139_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 139
+    },
+    "Gyarados_Pose1_3_326_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 326
+    },
+    "Gyarados_Pose1_0_327_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 327
+    },
+    "Gyarados_Pose1_1_197_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 197
+    },
+    "Gyarados_Pose1_1_192_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 192
+    },
+    "Gyarados_Pose1_2_64_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 64
+    },
+    "Gyarados_Pose1_2_133_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 133
+    },
+    "Gyarados_Pose1_1_28_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 28
+    },
+    "Gyarados_Pose1_3_181_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 181
+    },
+    "Gyarados_Pose1_2_283_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 283
+    },
+    "Gyarados_Pose1_0_119_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 119
+    },
+    "Gyarados_Pose1_1_227_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 227
+    },
+    "Gyarados_Pose1_3_175_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 175
+    },
+    "Gyarados_Pose1_2_247_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 247
+    },
+    "Gyarados_Pose1_0_283_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 283
+    },
+    "Gyarados_Pose1_2_167_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 167
+    },
+    "Gyarados_Pose1_1_85_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 85
+    },
+    "Gyarados_Pose1_3_31_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 31
+    },
+    "Gyarados_Pose1_1_335_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 335
+    },
+    "Gyarados_Pose1_0_181_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 181
+    },
+    "Gyarados_Pose1_1_118_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 118
+    },
+    "Gyarados_Pose1_3_73_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 73
+    },
+    "Gyarados_Pose1_0_254_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 254
+    },
+    "Gyarados_Pose1_2_276_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 276
+    },
+    "Gyarados_Pose1_2_62_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 62
+    },
+    "Gyarados_Pose1_0_125_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 125
+    },
+    "Gyarados_Pose1_2_197_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 197
+    },
+    "Gyarados_Pose1_3_109_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 109
+    },
+    "Gyarados_Pose1_0_218_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 218
+    },
+    "Gyarados_Pose1_1_298_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 298
+    },
+    "Gyarados_Pose1_0_160_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 160
+    },
+    "Gyarados_Pose1_2_129_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 129
+    },
+    "Gyarados_Pose1_1_267_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 267
+    },
+    "Gyarados_Pose1_3_67_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 67
+    },
+    "Gyarados_Pose1_3_218_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 218
+    },
+    "Gyarados_Pose1_2_98_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 98
+    },
+    "Gyarados_Pose1_1_57_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 57
+    },
+    "Gyarados_Pose1_0_213_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 213
+    },
+    "Gyarados_Pose1_3_212_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 212
+    },
+    "Gyarados_Pose1_2_356_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 356
+    },
+    "Gyarados_Pose1_1_340_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 340
+    },
+    "Gyarados_Pose1_0_321_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 321
+    },
+    "Gyarados_Pose1_3_248_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 248
+    },
+    "Gyarados_Pose1_0_289_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 289
+    },
+    "Gyarados_Pose1_3_289_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 289
+    },
+    "Gyarados_Pose1_3_145_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 145
+    },
+    "Gyarados_Pose1_0_357_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 357
+    },
+    "Gyarados_Pose1_0_42_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 42
+    },
+    "Gyarados_Pose1_3_283_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 283
+    },
+    "Gyarados_Pose1_2_95_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 95
+    },
+    "Gyarados_Pose1_0_79_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 79
+    },
+    "Gyarados_Pose1_2_245_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 245
+    },
+    "Gyarados_Pose1_3_253_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 253
+    },
+    "Gyarados_Pose1_2_349_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 349
+    },
+    "Gyarados_Pose1_0_86_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 86
+    },
+    "Gyarados_Pose1_2_30_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 30
+    },
+    "Gyarados_Pose1_3_103_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 103
+    },
+    "Gyarados_Pose1_2_32_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 32
+    },
+    "Gyarados_Pose1_3_37_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 37
+    },
+    "Gyarados_Pose1_1_155_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 155
+    },
+    "Gyarados_Pose1_0_12_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 12
+    },
+    "Gyarados_Pose1_2_164_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 164
+    },
+    "Gyarados_Pose1_1_25_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 25
+    },
+    "Gyarados_Pose1_0_155_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 155
+    },
+    "Gyarados_Pose1_1_261_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 261
+    },
+    "Gyarados_Pose1_1_124_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 124
+    },
+    "Gyarados_Pose1_2_201_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 201
+    },
+    "Gyarados_Pose1_1_230_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 230
+    },
+    "Gyarados_Pose1_1_304_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 304
+    },
+    "Gyarados_Pose1_3_320_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 320
+    },
+    "Gyarados_Pose1_2_318_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 318
+    },
+    "Gyarados_Pose1_0_48_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 48
+    },
+    "Gyarados_Pose1_0_248_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 248
+    },
+    "Gyarados_Pose1_2_220_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 220
+    },
+    "Gyarados_Pose1_0_186_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 186
+    },
+    "Gyarados_Pose1_2_312_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 312
+    },
+    "Gyarados_Pose1_1_90_g.png": {
+      "name": "Gyarados",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 90
+    },
+    "Rhydon_Pose1_2_167_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 167
+    },
+    "Rhydon_Pose1_1_336_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 336
+    },
+    "Rhydon_Pose1_0_289_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 289
+    },
+    "Rhydon_Pose1_2_97_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 97
+    },
+    "Rhydon_Pose1_3_268_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 268
+    },
+    "Rhydon_Pose1_0_151_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 151
+    },
+    "Rhydon_Pose1_2_165_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 165
+    },
+    "Rhydon_Pose1_0_116_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 116
+    },
+    "Rhydon_Pose1_2_130_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 130
+    },
+    "Rhydon_Pose1_2_32_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 32
+    },
+    "Rhydon_Pose1_3_167_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 167
+    },
+    "Rhydon_Pose1_2_66_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 66
+    },
+    "Rhydon_Pose1_1_133_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 133
+    },
+    "Rhydon_Pose1_0_320_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 320
+    },
+    "Rhydon_Pose1_2_134_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 134
+    },
+    "Rhydon_Pose1_0_221_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 221
+    },
+    "Rhydon_Pose1_2_100_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 100
+    },
+    "Rhydon_Pose1_3_65_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 65
+    },
+    "Rhydon_Pose1_0_286_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 286
+    },
+    "Rhydon_Pose1_2_196_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 196
+    },
+    "Rhydon_Pose1_0_20_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 20
+    },
+    "Rhydon_Pose1_3_334_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 334
+    },
+    "Rhydon_Pose1_2_329_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 329
+    },
+    "Rhydon_Pose1_1_130_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 130
+    },
+    "Rhydon_Pose1_1_34_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 34
+    },
+    "Rhydon_Pose1_0_356_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 356
+    },
+    "Rhydon_Pose1_1_198_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 198
+    },
+    "Rhydon_Pose1_2_232_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 232
+    },
+    "Rhydon_Pose1_0_86_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 86
+    },
+    "Rhydon_Pose1_1_236_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 236
+    },
+    "Rhydon_Pose1_1_300_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 300
+    },
+    "Rhydon_Pose1_0_353_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 353
+    },
+    "Rhydon_Pose1_2_262_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 262
+    },
+    "Rhydon_Pose1_1_270_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 270
+    },
+    "Rhydon_Pose1_0_255_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 255
+    },
+    "Rhydon_Pose1_3_234_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 234
+    },
+    "Rhydon_Pose1_0_327_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 327
+    },
+    "Rhydon_Pose1_1_100_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 100
+    },
+    "Rhydon_Pose1_3_299_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 299
+    },
+    "Rhydon_Pose1_1_233_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 233
+    },
+    "Rhydon_Pose1_1_202_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 202
+    },
+    "Rhydon_Pose1_0_17_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 17
+    },
+    "Rhydon_Pose1_1_65_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 65
+    },
+    "Rhydon_Pose1_3_197_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 197
+    },
+    "Rhydon_Pose1_3_201_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 201
+    },
+    "Rhydon_Pose1_2_229_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 229
+    },
+    "Rhydon_Pose1_2_198_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 198
+    },
+    "Rhydon_Pose1_2_299_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 299
+    },
+    "Rhydon_Pose1_2_331_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 331
+    },
+    "Rhydon_Pose1_0_184_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 184
+    },
+    "Rhydon_Pose1_0_119_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 119
+    },
+    "Rhydon_Pose1_3_133_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 133
+    },
+    "Rhydon_Pose1_1_97_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 97
+    },
+    "Rhydon_Pose1_0_84_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 84
+    },
+    "Rhydon_Pose1_2_296_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 296
+    },
+    "Rhydon_Pose1_3_265_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 265
+    },
+    "Rhydon_Pose1_3_95_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 95
+    },
+    "Rhydon_Pose1_2_265_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 265
+    },
+    "Rhydon_Pose1_0_51_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 51
+    },
+    "Rhydon_Pose1_2_63_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 63
+    },
+    "Rhydon_Pose1_0_53_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 53
+    },
+    "Rhydon_Pose1_2_30_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 30
+    },
+    "Rhydon_Pose1_3_63_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 63
+    },
+    "Rhydon_Pose1_3_232_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 232
+    },
+    "Rhydon_Pose1_0_218_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 218
+    },
+    "Rhydon_Pose1_3_98_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 98
+    },
+    "Rhydon_Pose1_1_31_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 31
+    },
+    "Rhydon_Pose1_3_130_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 130
+    },
+    "Rhydon_Pose1_0_323_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 323
+    },
+    "Rhydon_Pose1_1_303_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 303
+    },
+    "Rhydon_Pose1_1_334_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 334
+    },
+    "Rhydon_Pose1_3_302_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 302
+    },
+    "Rhydon_Pose1_3_164_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 164
+    },
+    "Rhydon_Pose1_3_332_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 332
+    },
+    "Rhydon_Pose1_0_153_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 153
+    },
+    "Rhydon_Pose1_1_167_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 167
+    },
+    "Rhydon_Pose1_0_187_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 187
+    },
+    "Rhydon_Pose1_3_33_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 33
+    },
+    "Rhydon_Pose1_1_164_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 164
+    },
+    "Rhydon_Pose1_1_67_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 67
+    },
+    "Rhydon_Pose1_3_31_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 31
+    },
+    "Rhydon_Pose1_0_252_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 252
+    },
+    "Rhydon_Pose1_1_267_g.png": {
+      "name": "Rhydon",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 267
+    },
+    "Rhydon_Pose4_0_13_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 13
+    },
+    "Rhydon_Pose4_3_104_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 104
+    },
+    "Rhydon_Pose4_1_223_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 223
+    },
+    "Rhydon_Pose4_2_31_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 31
+    },
+    "Rhydon_Pose4_1_336_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 336
+    },
+    "Rhydon_Pose4_3_218_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 218
+    },
+    "Rhydon_Pose4_0_280_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 280
+    },
+    "Rhydon_Pose4_3_187_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 187
+    },
+    "Rhydon_Pose4_2_294_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 294
+    },
+    "Rhydon_Pose4_0_129_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 129
+    },
+    "Rhydon_Pose4_0_21_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 21
+    },
+    "Rhydon_Pose4_3_37_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 37
+    },
+    "Rhydon_Pose4_3_226_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 226
+    },
+    "Rhydon_Pose4_3_141_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 141
+    },
+    "Rhydon_Pose4_3_74_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 74
+    },
+    "Rhydon_Pose4_1_177_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 177
+    },
+    "Rhydon_Pose4_1_253_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 253
+    },
+    "Rhydon_Pose4_2_332_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 332
+    },
+    "Rhydon_Pose4_0_240_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 240
+    },
+    "Rhydon_Pose4_1_30_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 30
+    },
+    "Rhydon_Pose4_1_37_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 37
+    },
+    "Rhydon_Pose4_0_166_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 166
+    },
+    "Rhydon_Pose4_3_256_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 256
+    },
+    "Rhydon_Pose4_0_247_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 247
+    },
+    "Rhydon_Pose4_2_340_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 340
+    },
+    "Rhydon_Pose4_0_99_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 99
+    },
+    "Rhydon_Pose4_2_151_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 151
+    },
+    "Rhydon_Pose4_3_67_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 67
+    },
+    "Rhydon_Pose4_2_106_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 106
+    },
+    "Rhydon_Pose4_0_203_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 203
+    },
+    "Rhydon_Pose4_1_74_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 74
+    },
+    "Rhydon_Pose4_0_60_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 60
+    },
+    "Rhydon_Pose4_1_215_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 215
+    },
+    "Rhydon_Pose4_1_147_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 147
+    },
+    "Rhydon_Pose4_0_51_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 51
+    },
+    "Rhydon_Pose4_0_328_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 328
+    },
+    "Rhydon_Pose4_2_143_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 143
+    },
+    "Rhydon_Pose4_1_67_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 67
+    },
+    "Rhydon_Pose4_1_290_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 290
+    },
+    "Rhydon_Pose4_2_181_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 181
+    },
+    "Rhydon_Pose4_2_264_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 264
+    },
+    "Rhydon_Pose4_3_301_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 301
+    },
+    "Rhydon_Pose4_1_139_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 139
+    },
+    "Rhydon_Pose4_1_110_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 110
+    },
+    "Rhydon_Pose4_3_30_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 30
+    },
+    "Rhydon_Pose4_0_358_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 358
+    },
+    "Rhydon_Pose4_3_148_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 148
+    },
+    "Rhydon_Pose4_2_302_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 302
+    },
+    "Rhydon_Pose4_2_75_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 75
+    },
+    "Rhydon_Pose4_2_38_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 38
+    },
+    "Rhydon_Pose4_2_219_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 219
+    },
+    "Rhydon_Pose4_2_257_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 257
+    },
+    "Rhydon_Pose4_0_288_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 288
+    },
+    "Rhydon_Pose4_2_68_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 68
+    },
+    "Rhydon_Pose4_3_331_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 331
+    },
+    "Rhydon_Pose4_0_90_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 90
+    },
+    "Rhydon_Pose4_1_298_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 298
+    },
+    "Rhydon_Pose4_0_136_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 136
+    },
+    "Rhydon_Pose4_1_185_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 185
+    },
+    "Rhydon_Pose4_3_111_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 111
+    },
+    "Rhydon_Pose4_3_294_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 294
+    },
+    "Rhydon_Pose4_2_113_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 113
+    },
+    "Rhydon_Pose4_2_227_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 227
+    },
+    "Rhydon_Pose4_3_264_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 264
+    },
+    "Rhydon_Pose4_0_209_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 209
+    },
+    "Rhydon_Pose4_3_180_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 3,
+      "angle": 180
+    },
+    "Rhydon_Pose4_1_328_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 328
+    },
+    "Rhydon_Pose4_1_260_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 260
+    },
+    "Rhydon_Pose4_2_189_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 2,
+      "angle": 189
+    },
+    "Rhydon_Pose4_0_173_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 173
+    },
+    "Rhydon_Pose4_0_321_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 0,
+      "angle": 321
+    },
+    "Rhydon_Pose4_1_103_g.png": {
+      "name": "Rhydon",
+      "pose": 4,
+      "cameraPosition": 1,
+      "angle": 103
+    },
+    "Charizard_Pose1_3_194_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 194
+    },
+    "Charizard_Pose1_1_95_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 95
+    },
+    "Charizard_Pose1_1_331_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 331
+    },
+    "Charizard_Pose1_0_328_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 328
+    },
+    "Charizard_Pose1_1_290_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 290
+    },
+    "Charizard_Pose1_2_66_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 66
+    },
+    "Charizard_Pose1_2_164_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 164
+    },
+    "Charizard_Pose1_0_188_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 188
+    },
+    "Charizard_Pose1_1_127_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 127
+    },
+    "Charizard_Pose1_0_325_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 325
+    },
+    "Charizard_Pose1_3_62_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 62
+    },
+    "Charizard_Pose1_3_192_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 192
+    },
+    "Charizard_Pose1_1_32_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 32
+    },
+    "Charizard_Pose1_3_65_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 65
+    },
+    "Charizard_Pose1_0_22_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 22
+    },
+    "Charizard_Pose1_3_96_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 96
+    },
+    "Charizard_Pose1_0_358_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 358
+    },
+    "Charizard_Pose1_0_154_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 154
+    },
+    "Charizard_Pose1_3_294_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 294
+    },
+    "Charizard_Pose1_1_259_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 259
+    },
+    "Charizard_Pose1_0_19_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 19
+    },
+    "Charizard_Pose1_2_33_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 33
+    },
+    "Charizard_Pose1_2_299_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 299
+    },
+    "Charizard_Pose1_2_133_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 133
+    },
+    "Charizard_Pose1_3_161_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 161
+    },
+    "Charizard_Pose1_2_99_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 99
+    },
+    "Charizard_Pose1_1_60_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 60
+    },
+    "Charizard_Pose1_2_333_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 333
+    },
+    "Charizard_Pose1_0_57_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 57
+    },
+    "Charizard_Pose1_3_32_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 32
+    },
+    "Charizard_Pose1_2_235_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 235
+    },
+    "Charizard_Pose1_0_53_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 53
+    },
+    "Charizard_Pose1_0_157_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 157
+    },
+    "Charizard_Pose1_2_198_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 198
+    },
+    "Charizard_Pose1_3_159_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 159
+    },
+    "Charizard_Pose1_3_128_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 128
+    },
+    "Charizard_Pose1_0_259_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 259
+    },
+    "Charizard_Pose1_1_223_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 223
+    },
+    "Charizard_Pose1_3_261_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 261
+    },
+    "Charizard_Pose1_0_290_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 290
+    },
+    "Charizard_Pose1_1_293_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 293
+    },
+    "Charizard_Pose1_1_157_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 157
+    },
+    "Charizard_Pose1_1_154_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 154
+    },
+    "Charizard_Pose1_2_167_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 167
+    },
+    "Charizard_Pose1_3_325_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 325
+    },
+    "Charizard_Pose1_2_330_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 330
+    },
+    "Charizard_Pose1_1_191_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 191
+    },
+    "Charizard_Pose1_2_301_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 301
+    },
+    "Charizard_Pose1_3_98_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 98
+    },
+    "Charizard_Pose1_0_120_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 120
+    },
+    "Charizard_Pose1_0_225_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 225
+    },
+    "Charizard_Pose1_0_294_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 294
+    },
+    "Charizard_Pose1_0_256_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 256
+    },
+    "Charizard_Pose1_2_64_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 64
+    },
+    "Charizard_Pose1_3_225_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 225
+    },
+    "Charizard_Pose1_3_257_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 257
+    },
+    "Charizard_Pose1_1_122_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 122
+    },
+    "Charizard_Pose1_2_130_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 130
+    },
+    "Charizard_Pose1_1_188_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 188
+    },
+    "Charizard_Pose1_2_200_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 200
+    },
+    "Charizard_Pose1_2_31_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 31
+    },
+    "Charizard_Pose1_0_123_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 123
+    },
+    "Charizard_Pose1_0_88_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 88
+    },
+    "Charizard_Pose1_1_256_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 256
+    },
+    "Charizard_Pose1_2_266_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 266
+    },
+    "Charizard_Pose1_2_269_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 269
+    },
+    "Charizard_Pose1_1_29_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 29
+    },
+    "Charizard_Pose1_1_90_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 90
+    },
+    "Charizard_Pose1_2_96_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 96
+    },
+    "Charizard_Pose1_3_227_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 227
+    },
+    "Charizard_Pose1_0_192_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 192
+    },
+    "Charizard_Pose1_1_62_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 62
+    },
+    "Charizard_Pose1_1_92_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 92
+    },
+    "Charizard_Pose1_3_327_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 327
+    },
+    "Charizard_Pose1_3_357_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 357
+    },
+    "Charizard_Pose1_3_120_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 120
+    },
+    "Charizard_Pose1_2_232_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 2,
+      "angle": 232
+    },
+    "Charizard_Pose1_3_292_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 292
+    },
+    "Charizard_Pose1_0_222_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 222
+    },
+    "Charizard_Pose1_1_325_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 325
+    },
+    "Charizard_Pose1_3_30_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 30
+    },
+    "Charizard_Pose1_1_225_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 1,
+      "angle": 225
+    },
+    "Charizard_Pose1_3_359_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 3,
+      "angle": 359
+    },
+    "Charizard_Pose1_0_90_g.png": {
+      "name": "Charizard",
+      "pose": 1,
+      "cameraPosition": 0,
+      "angle": 90
+    },
+    "Rhydon_Pose2_3_134_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 134
+    },
+    "Rhydon_Pose2_1_198_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 198
+    },
+    "Rhydon_Pose2_3_131_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 131
+    },
+    "Rhydon_Pose2_2_230_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 230
+    },
+    "Rhydon_Pose2_2_200_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 200
+    },
+    "Rhydon_Pose2_2_95_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 95
+    },
+    "Rhydon_Pose2_2_296_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 296
+    },
+    "Rhydon_Pose2_2_164_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 164
+    },
+    "Rhydon_Pose2_2_130_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 130
+    },
+    "Rhydon_Pose2_3_296_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 296
+    },
+    "Rhydon_Pose2_3_266_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 266
+    },
+    "Rhydon_Pose2_0_212_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 212
+    },
+    "Rhydon_Pose2_1_161_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 161
+    },
+    "Rhydon_Pose2_0_180_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 180
+    },
+    "Rhydon_Pose2_0_275_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 275
+    },
+    "Rhydon_Pose2_0_243_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 243
+    },
+    "Rhydon_Pose2_3_34_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 34
+    },
+    "Rhydon_Pose2_3_227_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 227
+    },
+    "Rhydon_Pose2_0_22_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 22
+    },
+    "Rhydon_Pose2_2_31_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 31
+    },
+    "Rhydon_Pose2_0_272_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 272
+    },
+    "Rhydon_Pose2_3_294_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 294
+    },
+    "Rhydon_Pose2_2_98_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 98
+    },
+    "Rhydon_Pose2_3_31_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 31
+    },
+    "Rhydon_Pose2_3_338_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 338
+    },
+    "Rhydon_Pose2_2_232_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 232
+    },
+    "Rhydon_Pose2_1_231_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 231
+    },
+    "Rhydon_Pose2_1_67_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 67
+    },
+    "Rhydon_Pose2_0_84_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 84
+    },
+    "Rhydon_Pose2_2_331_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 331
+    },
+    "Rhydon_Pose2_0_116_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 116
+    },
+    "Rhydon_Pose2_1_262_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 262
+    },
+    "Rhydon_Pose2_3_100_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 100
+    },
+    "Rhydon_Pose2_2_65_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 65
+    },
+    "Rhydon_Pose2_0_337_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 337
+    },
+    "Rhydon_Pose2_1_195_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 195
+    },
+    "Rhydon_Pose2_3_230_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 230
+    },
+    "Rhydon_Pose2_0_56_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 56
+    },
+    "Rhydon_Pose2_2_63_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 63
+    },
+    "Rhydon_Pose2_1_129_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 129
+    },
+    "Rhydon_Pose2_0_149_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 149
+    },
+    "Rhydon_Pose2_1_330_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 330
+    },
+    "Rhydon_Pose2_3_166_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 166
+    },
+    "Rhydon_Pose2_0_217_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 217
+    },
+    "Rhydon_Pose2_2_329_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 329
+    },
+    "Rhydon_Pose2_0_19_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 19
+    },
+    "Rhydon_Pose2_3_261_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 261
+    },
+    "Rhydon_Pose2_2_197_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 197
+    },
+    "Rhydon_Pose2_2_167_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 167
+    },
+    "Rhydon_Pose2_0_113_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 113
+    },
+    "Rhydon_Pose2_0_182_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 182
+    },
+    "Rhydon_Pose2_2_33_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 33
+    },
+    "Rhydon_Pose2_1_228_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 228
+    },
+    "Rhydon_Pose2_2_265_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 265
+    },
+    "Rhydon_Pose2_3_164_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 164
+    },
+    "Rhydon_Pose2_1_265_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 265
+    },
+    "Rhydon_Pose2_1_31_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 31
+    },
+    "Rhydon_Pose2_3_98_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 98
+    },
+    "Rhydon_Pose2_2_298_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 298
+    },
+    "Rhydon_Pose2_1_164_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 164
+    },
+    "Rhydon_Pose2_0_339_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 339
+    },
+    "Rhydon_Pose2_3_65_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 65
+    },
+    "Rhydon_Pose2_1_131_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 131
+    },
+    "Rhydon_Pose2_0_53_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 53
+    },
+    "Rhydon_Pose2_1_299_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 299
+    },
+    "Rhydon_Pose2_1_97_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 97
+    },
+    "Rhydon_Pose2_1_296_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 296
+    },
+    "Rhydon_Pose2_3_197_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 197
+    },
+    "Rhydon_Pose2_3_347_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 347
+    },
+    "Rhydon_Pose2_0_81_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 81
+    },
+    "Rhydon_Pose2_1_64_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 64
+    },
+    "Rhydon_Pose2_3_67_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 67
+    },
+    "Rhydon_Pose2_1_33_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 33
+    },
+    "Rhydon_Pose2_2_133_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 133
+    },
+    "Rhydon_Pose2_2_263_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 2,
+      "angle": 263
+    },
+    "Rhydon_Pose2_0_50_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 50
+    },
+    "Rhydon_Pose2_1_99_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 99
+    },
+    "Rhydon_Pose2_0_305_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 305
+    },
+    "Rhydon_Pose2_0_147_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 147
+    },
+    "Rhydon_Pose2_1_333_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 1,
+      "angle": 333
+    },
+    "Rhydon_Pose2_3_195_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 3,
+      "angle": 195
+    },
+    "Rhydon_Pose2_0_303_g.png": {
+      "name": "Rhydon",
+      "pose": 2,
+      "cameraPosition": 0,
+      "angle": 303
+    },
+    "Rhydon_Pose3_2_62_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 2,
+      "angle": 62
+    },
+    "Rhydon_Pose3_3_123_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 3,
+      "angle": 123
+    },
+    "Rhydon_Pose3_0_250_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 0,
+      "angle": 250
+    },
+    "Rhydon_Pose3_2_122_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 2,
+      "angle": 122
+    },
+    "Rhydon_Pose3_3_184_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 3,
+      "angle": 184
+    },
+    "Rhydon_Pose3_0_185_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 0,
+      "angle": 185
+    },
+    "Rhydon_Pose3_0_39_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 0,
+      "angle": 39
+    },
+    "Rhydon_Pose3_1_190_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 190
+    },
+    "Rhydon_Pose3_1_282_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 282
+    },
+    "Rhydon_Pose3_2_60_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 2,
+      "angle": 60
+    },
+    "Rhydon_Pose3_1_155_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 155
+    },
+    "Rhydon_Pose3_0_252_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 0,
+      "angle": 252
+    },
+    "Rhydon_Pose3_1_348_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 348
+    },
+    "Rhydon_Pose3_2_125_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 2,
+      "angle": 125
+    },
+    "Rhydon_Pose3_2_188_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 2,
+      "angle": 188
+    },
+    "Rhydon_Pose3_1_222_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 222
+    },
+    "Rhydon_Pose3_3_246_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 3,
+      "angle": 246
+    },
+    "Rhydon_Pose3_0_104_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 0,
+      "angle": 104
+    },
+    "Rhydon_Pose3_0_129_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 0,
+      "angle": 129
+    },
+    "Rhydon_Pose3_1_285_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 285
+    },
+    "Rhydon_Pose3_1_60_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 60
+    },
+    "Rhydon_Pose3_1_345_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 345
+    },
+    "Rhydon_Pose3_3_248_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 3,
+      "angle": 248
+    },
+    "Rhydon_Pose3_0_190_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 0,
+      "angle": 190
+    },
+    "Rhydon_Pose3_3_187_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 3,
+      "angle": 187
+    },
+    "Rhydon_Pose3_2_185_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 2,
+      "angle": 185
+    },
+    "Rhydon_Pose3_3_308_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 3,
+      "angle": 308
+    },
+    "Rhydon_Pose3_0_132_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 0,
+      "angle": 132
+    },
+    "Rhydon_Pose3_0_314_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 0,
+      "angle": 314
+    },
+    "Rhydon_Pose3_1_124_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 124
+    },
+    "Rhydon_Pose3_3_63_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 3,
+      "angle": 63
+    },
+    "Rhydon_Pose3_2_251_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 2,
+      "angle": 251
+    },
+    "Rhydon_Pose3_2_315_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 2,
+      "angle": 315
+    },
+    "Rhydon_Pose3_1_122_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 122
+    },
+    "Rhydon_Pose3_2_248_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 2,
+      "angle": 248
+    },
+    "Rhydon_Pose3_0_44_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 0,
+      "angle": 44
+    },
+    "Rhydon_Pose3_3_310_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 3,
+      "angle": 310
+    },
+    "Rhydon_Pose3_0_108_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 0,
+      "angle": 108
+    },
+    "Rhydon_Pose3_0_312_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 0,
+      "angle": 312
+    },
+    "Rhydon_Pose3_2_311_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 2,
+      "angle": 311
+    },
+    "Rhydon_Pose3_3_60_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 3,
+      "angle": 60
+    },
+    "Rhydon_Pose3_1_62_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 62
+    },
+    "Rhydon_Pose3_1_220_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 220
+    },
+    "Rhydon_Pose3_1_188_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 188
+    },
+    "Rhydon_Pose3_1_158_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 1,
+      "angle": 158
+    },
+    "Rhydon_Pose3_3_125_g.png": {
+      "name": "Rhydon",
+      "pose": 3,
+      "cameraPosition": 3,
+      "angle": 125
+    }
+  }
+}
